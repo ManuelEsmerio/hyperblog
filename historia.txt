@@ -3,4 +3,4 @@ Curso de GIT y GITHUB
 Soy Manuel Esmerio Garcia desarrollador web desde hace 4 años,
 con tecnologia como PHP, JavaScript, CSS, HTML, Nodejs, React, Vue y muchas más.
 
-Integratto SA de CV
+Integratto SA de CV.
