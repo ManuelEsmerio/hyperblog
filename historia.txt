@@ -7,4 +7,6 @@ Integratto SA de CV.
 
 Master 1
 
+Master 2
+
 Cambio desde GitHub a la rama de section.
